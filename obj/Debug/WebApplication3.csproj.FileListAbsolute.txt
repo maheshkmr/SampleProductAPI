@@ -1,0 +1,14 @@
+F:\NewApps\MyNodeOne\MvcApplication1\WebApplication3\bin\WebApplication3.dll.config
+F:\NewApps\MyNodeOne\MvcApplication1\WebApplication3\bin\WebApplication3.dll
+F:\NewApps\MyNodeOne\MvcApplication1\WebApplication3\bin\WebApplication3.pdb
+F:\NewApps\MyNodeOne\MvcApplication1\WebApplication3\bin\Newtonsoft.Json.dll
+F:\NewApps\MyNodeOne\MvcApplication1\WebApplication3\bin\System.Net.Http.Formatting.dll
+F:\NewApps\MyNodeOne\MvcApplication1\WebApplication3\bin\System.Web.Http.dll
+F:\NewApps\MyNodeOne\MvcApplication1\WebApplication3\bin\System.Web.Http.WebHost.dll
+F:\NewApps\MyNodeOne\MvcApplication1\WebApplication3\bin\Newtonsoft.Json.xml
+F:\NewApps\MyNodeOne\MvcApplication1\WebApplication3\bin\System.Net.Http.Formatting.xml
+F:\NewApps\MyNodeOne\MvcApplication1\WebApplication3\bin\System.Web.Http.xml
+F:\NewApps\MyNodeOne\MvcApplication1\WebApplication3\bin\System.Web.Http.WebHost.xml
+F:\NewApps\MyNodeOne\MvcApplication1\WebApplication3\obj\Debug\WebApplication3.csprojResolveAssemblyReference.cache
+F:\NewApps\MyNodeOne\MvcApplication1\WebApplication3\obj\Debug\WebApplication3.dll
+F:\NewApps\MyNodeOne\MvcApplication1\WebApplication3\obj\Debug\WebApplication3.pdb
