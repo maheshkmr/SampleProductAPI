@@ -12,3 +12,17 @@ F:\NewApps\MyNodeOne\MvcApplication1\WebApplication3\bin\System.Web.Http.WebHost
 F:\NewApps\MyNodeOne\MvcApplication1\WebApplication3\obj\Debug\WebApplication3.csprojResolveAssemblyReference.cache
 F:\NewApps\MyNodeOne\MvcApplication1\WebApplication3\obj\Debug\WebApplication3.dll
 F:\NewApps\MyNodeOne\MvcApplication1\WebApplication3\obj\Debug\WebApplication3.pdb
+C:\sampleGitProjects\SampleProductAPI\bin\WebApplication3.dll.config
+C:\sampleGitProjects\SampleProductAPI\bin\WebApplication3.dll
+C:\sampleGitProjects\SampleProductAPI\bin\WebApplication3.pdb
+C:\sampleGitProjects\SampleProductAPI\bin\System.Net.Http.Formatting.dll
+C:\sampleGitProjects\SampleProductAPI\bin\System.Web.Http.dll
+C:\sampleGitProjects\SampleProductAPI\bin\System.Web.Http.WebHost.dll
+C:\sampleGitProjects\SampleProductAPI\bin\System.Net.Http.Formatting.xml
+C:\sampleGitProjects\SampleProductAPI\bin\System.Web.Http.xml
+C:\sampleGitProjects\SampleProductAPI\bin\System.Web.Http.WebHost.xml
+C:\sampleGitProjects\SampleProductAPI\obj\Debug\WebApplication3.dll
+C:\sampleGitProjects\SampleProductAPI\obj\Debug\WebApplication3.pdb
+C:\sampleGitProjects\SampleProductAPI\bin\Newtonsoft.Json.dll
+C:\sampleGitProjects\SampleProductAPI\bin\Newtonsoft.Json.xml
+C:\sampleGitProjects\SampleProductAPI\obj\Debug\WebApplication3.csprojResolveAssemblyReference.cache
